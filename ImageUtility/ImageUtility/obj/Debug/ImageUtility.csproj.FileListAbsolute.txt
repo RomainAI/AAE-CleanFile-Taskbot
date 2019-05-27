@@ -1,0 +1,15 @@
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\ImageUtility.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\ImageUtility.pdb
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.Imaging.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.Math.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\itextsharp.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.xml
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.Imaging.xml
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\AForge.Math.xml
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\bin\Debug\itextsharp.xml
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\obj\Debug\ImageUtility.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\obj\Debug\ImageUtility.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\obj\Debug\ImageUtility.csproj.CopyComplete
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\obj\Debug\ImageUtility.dll
+C:\Users\Romain.Alexandre\source\repos\ImageUtility\ImageUtility\obj\Debug\ImageUtility.pdb
